@@ -41,14 +41,17 @@ So, for example, it there aren't endpoints for the region `europe-central2`, the
 
 #### Regions
 
-![Regions](./images/map_europe.png 'Regions')
+![Regions](./images/world_map.png 'Regions')
 
-Available regions are currently 4:
+Available regions are currently 7:
 
 - Finland
 - Warsaw
 - Paris
 - Madrid
+- Io
+- Montreal
+- Oregon
 
 When you create and endpoint you can specify the region where from where to scan it.
 
